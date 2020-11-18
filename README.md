@@ -9,7 +9,7 @@
 
 - 👯  I’m looking to collaborate on projects with others!
 
-- 🤔  I’m currently looking for open software engineering positions
+- 🤔  I’m currently looking for open full time software engineering positions
 
 - 💬  Ask me about anything related to programming, school, or life
 
@@ -17,4 +17,4 @@
 
 - 🌎  I am fluent in English and Urdu. 
 
-- ⚡  **Fun facts about me:** I am a huge car enthusiast and have driven over 2 cross country automotive rallies. I am a huge Halo and Star Wars nerd. Lastly, I take part in motorcycle racing on the track 🏍️ .  
+- ⚡  **Fun facts about me:** I am a huge car enthusiast, gamer, and Star Wars Nerd. 
