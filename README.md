@@ -5,7 +5,7 @@
 
 - 💻  I have experince with **HTML, CSS, Javascript, Node.JS, React.JS, Python, Django, MySQL, MongoDB, and Amazon Web Services.**
 
-- 🌱  I’m currently a **Pyschology** student at **Rutgers University**
+- 🌱  I graduated from **Rutgers University**
 
 - 💮  I attended a 6 month **coding bootcamp** program at **Rutgers University**
 
